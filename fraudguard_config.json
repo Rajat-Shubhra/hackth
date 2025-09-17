@@ -5,7 +5,7 @@
     "email_reports": false,
     "auto_analysis": true,
     "data_retention": false,
-    "google_api_key": "AIzaSyA8fbKRVSiSgfdSLYua46U75a5OIDAhh-A",
+    "google_api_key": "",
     "alert_threshold": "low",
     "working_model": "gemini-1.5-flash-latest"
 }
